@@ -41,4 +41,3 @@ void writeFile(string name, vector<byte> bytes)
     stream.write(bytes.data(), bytes.size());
 }
 
-sdlkfj
