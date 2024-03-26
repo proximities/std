@@ -40,3 +40,5 @@ void writeFile(string name, vector<byte> bytes)
     ofstream stream = ofstream(name, ios::binary);
     stream.write(bytes.data(), bytes.size());
 }
+
+sdlkfj
